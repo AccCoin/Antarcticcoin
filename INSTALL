@@ -1,0 +1,9 @@
+Building AntarcticCoin
+
+See doc/readme-qt.rst for instructions on building AntarcticCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AntarcticCoin.
+
+See doc/build-*.txt for instructions on building antarcticCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AntarcticCoin.
